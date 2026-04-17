@@ -173,3 +173,4 @@ int index_add(Index *index, const char *path) {
     (void)index; (void)path;
     return -1;
 }
+}
